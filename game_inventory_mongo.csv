@@ -1,0 +1,65 @@
+,G_ID,G_NAME,GENRE,DEVELOPER,PLATFORM,TOTAL_SHIPPED,CRITIC_SCORE,USER_SCORE,YEAR
+2,1,Mario Kart Wii,Racing,Nintendo EAD,Wii,37.14,8.2,9.1,2008
+4,2,Wii Sports Resort,Sports,Nintendo EAD,Wii,33.09,8.0,8.8,2009
+6,3,New Super Mario Bros.,Platform,Nintendo EAD,DS,30.8,9.1,8.1,2006
+8,4,New Super Mario Bros. Wii,Platform,Nintendo EAD,Wii,30.22,8.6,9.2,2009
+11,5,Wii Play,Misc,Nintendo EAD,Wii,28.02,5.9,4.5,2007
+14,6,Mario Kart DS,Racing,Nintendo EAD,DS,23.6,9.1,9.4,2005
+28,7,Pokemon X/Y,Role-Playing,Game Freak,3DS,16.37,8.9,9.7,2013
+33,8,Pokemon Black / White Version,Role-Playing,Game Freak,DS,15.64,8.6,9.0,2011
+43,9,Halo 3,Shooter,Bungie Studios,X360,14.5,9.6,9.5,2007
+52,10,Super Smash Bros. Brawl,Fighting,Project Sora,Wii,13.29,9.2,9.7,2008
+57,11,Super Mario Galaxy,Platform,Nintendo EAD Tokyo,Wii,12.78,9.7,9.6,2007
+63,12,Super Smash Bros. Ultimate,Fighting,Bandai Namco Games,NS,12.08,9.4,9.7,2018
+71,13,The Legend of Zelda: Breath of the Wild,Action-Adventure,Nintendo EPD,NS,11.68,9.9,10.0,2017
+84,14,Horizon: Zero Dawn,Action,Guerrilla Games,PS4,10.0,9.1,8.0,2017
+90,15,Final Fantasy VII,Role-Playing,SquareSoft,PS,9.9,9.6,9.5,1997
+110,16,Final Fantasy X,Role-Playing,SquareSoft,PS2,8.6,9.0,10.0,2001
+111,17,Pokemon Black 2 and White 2,Role-Playing,Game Freak,DS,8.52,8.0,8.3,2012
+126,18,Pokemon Platinum Version,Role-Playing,Game Freak,DS,7.6,8.3,8.9,2009
+127,19,The Legend of Zelda: Ocarina of Time,Adventure,Nintendo EAD,N64,7.6,9.9,10.0,1998
+132,20,Super Mario Galaxy 2,Platform,Nintendo EAD Tokyo,Wii,7.41,9.7,9.8,2010
+136,21,The Legend of Zelda: Twilight Princess,Adventure,Nintendo EAD,Wii,7.26,9.5,9.6,2006
+162,22,Final Fantasy XII,Role-Playing,Square Enix,PS2,6.4,9.4,9.5,2006
+233,23,God of War III,Action,SCEA Santa Monica Studio,PS3,5.2,9.2,9.4,2010
+255,24,Gears of War,Shooter,Epic Games,X360,5.0,9.4,9.4,2006
+256,25,Gears of War 2,Shooter,Epic Games,X360,5.0,9.4,9.5,2008
+285,26,Gran Turismo,Racing,Polyphony Digital,PSP,4.67,7.7,9.5,2009
+324,27,Animal Crossing: City Folk,Simulation,Nintendo EAD,Wii,4.32,7.1,8.8,2008
+331,28,God of War II,Action,SCEA Santa Monica Studio,PS2,4.24,9.3,9.8,2007
+375,29,World of Warcraft: Wrath of the Lich King,MMO,Blizzard Entertainment,PC,4.0,9.3,9.3,2008
+399,30,Monster Hunter Freedom Unite,Role-Playing,Capcom Production Studio 1,PSP,3.8,7.7,9.7,2009
+416,31,Banjo-Kazooie,Platform,Rare Ltd.,N64,3.65,9.3,9.4,1998
+451,32,Fable II,Role-Playing,Lionhead Studios,X360,3.5,9.0,9.3,2008
+504,33,God of War: Chains of Olympus,Action,Ready at Dawn,PSP,3.26,8.9,9.5,2008
+560,34,Crysis,Shooter,Crytek,PC,3.0,9.2,8.5,2007
+618,35,Metroid Prime,Shooter,Retro Studios,GC,2.84,9.6,9.5,2002
+728,36,Crisis Core: Final Fantasy VII,Role-Playing,Square Enix,PSP,2.5,8.1,9.0,2008
+766,37,Kirby Star Allies,Platform,HAL Laboratory,NS,2.42,8.1,10.0,2018
+835,38,Resident Evil 4,Action,Capcom Production Studio 4,PS2,2.3,9.6,9.3,2005
+908,39,Devil May Cry,Action,Capcom,PS2,2.16,9.1,9.3,2001
+954,40,Donkey Kong Country: Tropical Freeze,Platform,Retro Studios,NS,2.08,9.1,9.1,2018
+998,41,Onimusha: Warlords,Action,Flagship,PS2,2.02,8.7,7.3,2001
+1026,42,Donkey Kong Country: Tropical Freeze,Platform,Retro Studios,WiiU,1.98,8.8,9.1,2014
+1080,43,Dissidia: Final Fantasy,Fighting,Square Enix,PSP,1.9,8.1,10.0,2009
+1083,44,Monster Hunter Tri,Role-Playing,Capcom Production Studio 1,Wii,1.9,8.1,10.0,2010
+1340,45,The Legend of Zelda: Breath of the Wild,Action-Adventure,Nintendo EPD,WiiU,1.61,10.0,10.0,2017
+1362,46,Sonic Unleashed,Platform,Sonic Team/Dimps Corporation,Wii,1.6,6.7,8.2,2008
+1394,47,AudioSurf,Misc,BestGameEver.com,PC,1.56,8.2,9.0,2008
+1411,48,Yoshi's Woolly World,Platform,Good-Feel,WiiU,1.55,7.4,6.0,2015
+1419,49,Sonic the Hedgehog (2006),Platform,Sonic Team,X360,1.54,4.8,4.8,2006
+1481,50,Octopath Traveler,Role-Playing,Square Enix,NS,1.5,8.1,8.7,2018
+1603,51,Metroid Prime 3: Corruption,Shooter,Retro Studios,Wii,1.41,9.0,9.4,2007
+1771,52,Final Fantasy: Crystal Chronicles,Role-Playing,Square Enix,GC,1.3,7.7,7.5,2004
+1774,53,Resident Evil: The Umbrella Chronicles,Shooter,Cavia Inc.,Wii,1.3,7.5,8.0,2007
+1941,54,Final Fantasy IV,Role-Playing,Matrix Software,DS,1.2,8.5,9.0,2008
+1950,55,Sonic and the Black Knight,Platform,Sonic Team,Wii,1.2,4.8,8.5,2009
+2019,56,World of Warcraft,MMO,Blizzard Entertainment,PC,1.16,9.2,8.0,2004
+2397,57,Devil May Cry 3: Dante's Awakening Special Edition,Action,Capcom,PS2,1.0,8.8,8.6,2006
+2415,58,MotorStorm: Pacific Rift,Racing,Evolution Studios,PS3,1.0,8.0,8.7,2008
+2425,59,Valkyria Chronicles,Role-Playing,Sega WOW Overworks,PS3,1.0,8.4,9.8,2008
+2546,60,Red Steel,Shooter,Ubisoft Paris,Wii,0.95,5.9,7.8,2006
+3633,61,Phantasy Star Portable,Role-Playing,Alfa System,PSP,0.64,7.1,9.1,2009
+5781,62,Bionic Commando,Adventure,GRIN,X360,0.38,7.1,8.0,2009
+7278,63,The Conduit,Shooter,High Voltage Software,Wii,0.27,6.6,8.2,2009
+16763,64,Submarine Titans,Strategy,Ellipse Studios,PC,0.03,6.1,9.0,2000
